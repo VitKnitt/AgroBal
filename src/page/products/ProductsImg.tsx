@@ -15,7 +15,8 @@ export default function ProductsImg() {
         className="
           absolute bottom-4 left-1/2 -translate-x-1/2
           sm:left-8 sm:translate-x-0
-          lg:left-[650px] lg:bottom-[40px]
+          lg:left-[700px] lg:bottom-[40px]
+          bottom-[-80px]
           bg-tercialy p-3 sm:p-4 rounded-lg shadow-lg
           max-w-[90%] sm:max-w-xs min-w-[250px]
         "
