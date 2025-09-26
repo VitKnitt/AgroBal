@@ -4,14 +4,6 @@ interface Props {
   children: React.ReactNode;
 }
 
-/*
-<SwitchElement>
-    <section1 />
-    <section2 />
-    <section3 />
-</SwitchElement>
-*/
-
 const Tech = ({ children }: Props): React.ReactNode => {
   const [activeIndex, setActiveIndex] = useState(0);
 
